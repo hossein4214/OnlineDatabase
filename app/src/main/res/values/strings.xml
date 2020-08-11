@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OnlineDatabase</string>
+
+    <string name="password">رمز عبور</string>
+    <string name="confirm_password">تکرار رمز عبور</string>
+    <string name="username">نام کاربری</string>
+    <string name="not_registered">هنوز ثبت نام نکردی ؟</string>
+    <string name="register_now">ثبت نام!</string>
+    <string name="login">ورود</string>
+    <string name="register">ثبت نام</string>
+    <string name="name">نام و نام‌خانوادگی (فارسی)</string>
+    <string name="hello">سلام&#160;</string>
+    <string name="logout">خروج از حساب کاربری</string>
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+    <string name="form">بستنی فرم</string>
+    <string name="version">نسخه 1.0</string>
+    <string name="is_loggined">قبلا ثبت نام کردی !؟</string>
+</resources>
